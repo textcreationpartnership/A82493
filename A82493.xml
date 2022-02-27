@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additionall act for sequestrations. Tuesday, February 7. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, Clerk of the Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82493</idno>
+            <idno type="STC">Wing E1170</idno>
+            <idno type="STC">Thomason E1074_29</idno>
+            <idno type="STC">ESTC R205476</idno>
+            <idno type="EEBO-CITATION">99864847</idno>
+            <idno type="PROQUEST">99864847</idno>
+            <idno type="VID">117079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117079)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additionall act for sequestrations. Tuesday, February 7. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, Clerk of the Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 8, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, and John Macock, printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659. [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title ornament; text in black letter.</note>
+                  <note>Annotation on Thomason copy: "Feb. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117079:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>An Additionall ACT FOR Sequeſtrations.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday, <hi>February</hi> 7. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament,</hi> That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>THOMAS St. NICHOLAS,</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:117079:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:117079:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>An Additionall ACT FOR Sequeſtrations.</head>
+            <p>VVHereas by an Act of this preſent Parliament, Entituled, <hi>An Act for Sequeſtrations, Samuel Moyer</hi> and others therein particularly named, are Conſtituted and appointed Commiſſioners for Sequeſtrations, and they or any four or more of them are thereby Authoriſed and required to nominate and appoint ſuch perſons as they ſhall think fit, to ſeize and ſecure all the Eſtates reall and perſonal of (or which any perſon or perſons ſtands intruſted with for) <hi>Randall Eger<g ref="char:EOLhyphen"/>ton, Robert Werden,</hi> Sir <hi>George Booth,</hi> and Sir <hi>Thomas Middleton,</hi> or any of them, or of or for any other perſon or perſons, who, ſince the ſeveral and reſpective times mentioned in
+<pb n="2" facs="tcp:117079:3"/>
+               <!-- PDF PAGE 33 -->the ſaid Act, have committed any of the ſeve<g ref="char:EOLhyphen"/>rall and reſpective Crimes or Delinquencies therein particularly ſpecified or deſcribed, As in and by the ſaid Act, relation thereunto being had, more at large amongſt other things it doth and may appear: Now Be it further Enacted by this preſent Parliament, and by the Autho<g ref="char:EOLhyphen"/>rity thereof, That the ſaid Commiſſioners, or any four or more of them, ſhall have, exerciſe and put in Execution all ſuch ſeveral and re<g ref="char:EOLhyphen"/>ſpective Powers, Authorities, and Inſtructi<g ref="char:EOLhyphen"/>ons whatſoever, in, for, or any way concerning the Diſcovering of, and proceeding againſt, all ſuch Perſons or new Delinquents, and of all ſuch their Eſtates, or in, for, or any other way concerning any other matter or thing whatſo<g ref="char:EOLhyphen"/>ever, and in any Caſe or Caſes whatſoever tou<g ref="char:EOLhyphen"/>ching or any way relating unto any of the ſaid Perſons or new Delinquents, or the Seque<g ref="char:EOLhyphen"/>ſtration of their Eſtates, or any ſuch Eſtate ſo Sequeſtred, or any of the Rents, Iſſues, or Profits thereof, As the late Commiſſioners for Compounding with Delinquents, the Nine<g ref="char:EOLhyphen"/>teenth of <hi>April,</hi> in the year of our Lord, One thouſand ſix hundred fifty three, had or might have exerciſed or put in execution, in, for, or any way concerning the diſcovering of, or proceed<g ref="char:EOLhyphen"/>ing againſt, old Delinquents or their Eſtates; or in, for, or any way concerning any other matter or thing whatſoever, and in any Caſe or Caſes whatſoever touching or any way relating unto old Delinquents, or the Sequeſtration of their Eſtates, or any ſuch their Eſtate ſo ſequeſtred, or any of the Rents, Iſſues or Profits there<g ref="char:EOLhyphen"/>of, and as fully and amply to all Intents, Con<g ref="char:EOLhyphen"/>ſtructions and Purpoſes whatſoever, as the
+<pb n="3" facs="tcp:117079:3"/>
+               <!-- PDF PAGE 33 -->ſaid late Commiſſioners for Compounding might have done in the ſame, or the like mat<g ref="char:EOLhyphen"/>ters, things or Caſes reſpectively: <hi>Provided,</hi> That this Act or any thing herein contained, ſhall not authorize or impower the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtration, to Compound with any of the ſaid Perſons or new Delin<g ref="char:EOLhyphen"/>quents for all or any part of their Eſtates.</p>
+            <p>And Be it further Enacted by the Authority aforeſaid, That ſuch perſons as the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtration, or any four or more of them, have nominated and appointed, or ſhall Nominate and appoint, ſhall be Com<g ref="char:EOLhyphen"/>mittees for Sequeſtration within ſuch place or places, County and Counties, as the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtration, or any four or more of them, have thought fit and appointed, or ſhall think fit and appoint; And they the ſaid Committees or any two or more of them, (according to ſuch Inſtructions and Orders as in purſuance of this Act, or any other Act or Ordinance of Parliament hath been or ſhall be given unto them by the ſaid Commiſſioners for Sequeſtration, or any four or more of them) ſhall have, exerciſe, and put in execution all ſuch ſeveral and reſpective Powers and Authorities whatſoever in, for, or any way concerning the diſcovering of, and proceeding againſt the ſaid perſons or new Delinquents, and all ſuch their Eſtates, or in, for, or any way concerning any other matter, or thing whatſoever, and in any Caſe or Caſes whatſoever, touching or any way relating unto any of the ſaid perſons or new Delinquents, or the Sequeſtration of their Eſtates, or any ſuch their Eſtates ſo ſeque<g ref="char:EOLhyphen"/>ſtred,
+<pb n="4" facs="tcp:117079:4"/>
+               <!-- PDF PAGE 34 -->or any the Rents, Iſſues or Profits there<g ref="char:EOLhyphen"/>of, as the late Commiſſioners for Sequeſtra<g ref="char:EOLhyphen"/>tion the Nineteenth of <hi>April,</hi> in the year of our Lord, one thouſand ſix hundred fifty three, had; or according to Inſtructions and Orders in purſuance of any Act or Ordinance of Parlia<g ref="char:EOLhyphen"/>ment given unto them by the ſaid late Commiſ<g ref="char:EOLhyphen"/>ſioners for Compounding, might have exerciſed or put in Execution, in, for, or any way concern<g ref="char:EOLhyphen"/>ing the Diſcovering of, or proceeding againſt old Delinquents or their Eſtates, or in, for, or any way concerning any other matter or thing whatſoever, and in any caſe or caſes whatſo<g ref="char:EOLhyphen"/>ever touching or any way relating unto old De<g ref="char:EOLhyphen"/>linquents or the Sequeſtration of their Eſtates, or any ſuch their Eſtate ſo ſequeſtred, or any the Rents, Iſſues or Profits thereof, and as fully and amply to all Intents, Conſtructions and Purpoſes whatſoever, as the ſaid late Commiſſioners for Sequeſtration, might have done in the ſame or the like matters, things, or caſes reſpectively. And the ſaid Committees for Sequeſtration, or any two or more of them, ſhall from time to time further Act, in and about the Premiſſes, according to ſuch Orders, Inſtructions and Directions, as in purſuance of this Act ſhall be given unto them by the ſaid Commiſſioners for Sequeſtration, or any four or more of them, upon any emergent occaſion whatſoever; and not otherwiſe. And the ſaid Committees for Sequeſtration are hereby im<g ref="char:EOLhyphen"/>powred &amp; required according to ſuch Inſtructi<g ref="char:EOLhyphen"/>ons and Directions, as they ſhall from time to time receive from the ſaid Commiſſioners for Sequeſtration, or any four or more of them, to pay all ſuch Rents, Revenues, Iſſues, Profits,
+<pb n="5" facs="tcp:117079:4"/>
+               <!-- PDF PAGE 34 -->and other ſumms of money as ſhall be raiſed upon the ſequeſtred Eſtates of the ſaid perſons or new Delinquents, unto <hi>Richard Wareing</hi> Eſquire, and <hi>Richard Barton</hi> Eſquire, who are hereby Conſtituted and appointed Treaſurers-General for this ſervice, and are hereby im<g ref="char:EOLhyphen"/>powred and required to receive all ſuch Rents, Iſſues, Profits, and other Summs of money, and to give Acquittances for the ſame; which Acquittances ſhall be unto ſuch Committee or Committees for Sequeſtration, ſufficient Diſ<g ref="char:EOLhyphen"/>charges for ſo much ſo paid reſpectively. But before any ſuch Rents, Revenues, Profits, or other Sums of money ſhall be ſo paid unto the ſaid Treaſurers, the ſame ſhall be duly entred with <hi>Praiſe-God Barbone</hi> Eſquire, who is hereby Nominated and appointed to be Comptroller or Checque upon the ſaid Treaſurers touching all ſuch Receipts, who is hereby appointed the ſumm of three hundred pounds by the Year, for his Salary and pains in the ſaid ſervice, To be paid by the ſaid Treaſurers without further order. And the ſaid Treaſurers are hereby im<g ref="char:EOLhyphen"/>powred to take and retain in their hands to their own uſe as a reward for their ſervice, two pence in the pound for all ſuch Rents, Reve<g ref="char:EOLhyphen"/>nues, Iſſues, and other ſumms of Money ſo received by them as aforeſaid. And for the bet<g ref="char:EOLhyphen"/>ter carrying on of this ſervice, the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtration, or any four or more of them, are hereby impowred and requi<g ref="char:EOLhyphen"/>red to nominate and appoint ſuch Perſons to be Councel, Regiſter, Sollicitor, Examiner, Auditor, and all other Officers; and to give and allow unto them ſuch Sallaries as they
+<pb n="6" facs="tcp:117079:5"/>
+               <!-- PDF PAGE 35 -->the ſaid Commiſſioners for Sequeſtration, or any four or more of them, ſhall think fit and rea<g ref="char:EOLhyphen"/>ſonable on that behalf, (the ſaid Sallaries be<g ref="char:EOLhyphen"/>ing firſt approved of by the Committee of Par<g ref="char:EOLhyphen"/>liament for Inſpection of the Treaſury). And alſo from time to time to iſſue their Warrants directed unto the ſaid Treaſurers for payment of all ſuch Sallaries, and for payment of all other incident Charges whatſoever, and alſo for repayment of all moneys depoſited or undu<g ref="char:EOLhyphen"/>ly received. And the ſaid Treaſurers are here<g ref="char:EOLhyphen"/>by Impowred and required to pay the ſame ac<g ref="char:EOLhyphen"/>cordingly, and ſuch Warrants together with the Acquittances of the perſons concerned, ſhall be unto them a ſufficient diſcharge in that be<g ref="char:EOLhyphen"/>half; And the ſaid Treaſurers are hereby fur<g ref="char:EOLhyphen"/>ther impowred and required from time to time, to pay into the Receipt of the Exchequer at <hi>VVeſtminſter,</hi> all the reſt and reſidue of all ſuch Rents, Iſſues, Profits, and other ſumms of money, which ſhall be ſo received by them as aforeſaid; and to take ſuch acquittances or other diſcharges for the ſame, as hath uſually been given in the ſame or the like caſe or caſes; which Acquittances or other Diſcharges ſhall be ſuf<g ref="char:EOLhyphen"/>ficient to acquit and diſcharge them the ſaid Treaſurers on that behalf.</p>
+            <p>And Be it further Enacted by the Authority aforeſaid, That the Commiſſioners for Se<g ref="char:EOLhyphen"/>queſtration and every of them, before he or they do intermeddle in the execution of any of the Powers given unto them in and by this Act, or by the ſaid Act firſt above mentioned, ſhall take the Oath herein after expreſſed, before the
+<pb n="7" facs="tcp:117079:5"/>
+               <!-- PDF PAGE 35 -->Lords Commiſſioners of the Great Seal, or any two of them, who are hereby Authorized and Re<g ref="char:EOLhyphen"/>quired to Adminiſter the ſame, (That is to ſay) <q>
+                  <hi>I <hi>A. B.</hi> do ſwear, That I will, according to my beſt skill and knowledge, truly and faithfully Perform and Diſcharge the Truſt Repoſed in, and Commit<g ref="char:EOLhyphen"/>ted unto me, in Relation unto two Acts of Parlia<g ref="char:EOLhyphen"/>ment; the one Entituled, <hi>An Act for Sequeſtration.</hi> The other Entituled, <hi>An Aditional Act for Sequeſtrati<g ref="char:EOLhyphen"/>ons.</hi> And that I will not for Love or Hate, Favour, or Affection, Gift, or Reward, or hope thereof, or for any other Cauſe or Motive whatſoever, volun<g ref="char:EOLhyphen"/>tarily break or infringe my ſaid Truſt, in any mat<g ref="char:EOLhyphen"/>ter or thing whatſoever, <hi>So help me God.</hi>
+                  </hi>
+               </q>
+            </p>
+            <p>And the ſaid Treaſurers, Comptroller, or Checque, and every Perſon that ſhall be Nomina<g ref="char:EOLhyphen"/>ted and Appointed by the ſaid Commiſſioners for Sequeſtrations, or any four or more of them, to be any of ſuch Committée for Sequeſtration; and every Perſon that ſhall be Imployed by or under the ſaid Commiſſioners for Sequeſtration, or by or under the ſaid Committees for Sequeſtration, as Councel, Regiſter, Solicitor, Cheeque, Ex<g ref="char:EOLhyphen"/>aminer, Auditor, or otherwiſe, are heredy Requi<g ref="char:EOLhyphen"/>red before any ſuch Perſon Act farther in any thing touching the Premiſes, to take the ſame Oath <hi>Mutatis Mutandis,</hi> before one or more Iu<g ref="char:EOLhyphen"/>ſtices of the Peace for ſuch County or Place, where ſuch Perſon is to Act or be Imployed; which Oath ſuch Iuſtices are hereby Impowred and Required to Adminiſter accordingly.</p>
+            <p>And Laſtly, <hi>Be it Enacted,</hi> And it is hereby Enacted by the Authority aforeſaid, That the ſaid Commiſſioners, and every of them Reſpe<g ref="char:EOLhyphen"/>ctively, ſhall have and Receive for their pains and care in the Management of this buſineſs of Se<g ref="char:EOLhyphen"/>queſtration
+<pb n="8" facs="tcp:117079:6"/>
+               <!-- PDF PAGE 36 -->the Yearly ſum of Three Hundred Pounds, to be paid by the ſaid Treaſurers, unto them the ſaid Commiſſioners, and every of them Reſpectively, by even and Quarterly Payments, the Receipt of which under the Hand of the ſaid Reſpective Commiſſioners, ſhall for ſuch Reſpe<g ref="char:EOLhyphen"/>ctive Commiſſioners Sallarie, be from time to time a ſufficient Diſcharge to the ſaid Treaſurers: And alſo that the ſaid Committees, in the Reſpe<g ref="char:EOLhyphen"/>ctive Counties and Places, ſhall have and Retain to their own Vſe, for their Sallary, one ſhilling ſix pence in the Pound, of all ſuch moneys as ſhall be paid by them unto the ſaid Treaſurers, out of the Profits of the ſaid Sequeſtred Eſtates, in the Reſpective Counties and Places.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Tueſday, <hi>February</hi> 7. 1659.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>THOMAS S<hi rend="sup">t</hi> NICHOLAS,</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+            <pb facs="tcp:117079:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </back>
+   </text>
+</TEI>
